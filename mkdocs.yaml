@@ -5,6 +5,11 @@ repo_name: gabrielbdornas/meu-bom-amigo
 repo_url: https://github.com/gabrielbdornas/meu-bom-amigo
 edit_uri: edit/main/docs/
 
+nav:
+  - Home: index.md
+  - Prefácio: prefacio.md
+  - Apresentação: apresentacao.md
+
 # Configuration
 theme:
   name: material
