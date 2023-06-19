@@ -1,7 +1,7 @@
 # Prefácio
 
-Imagens dizem muito...
-... tanto quanto as palavras
+<p class="p-right">Imagens dizem muito...</p>
+<p class="p-right">... tanto quanto as palavras</p>
 
 Quando o Antonio Augusto me convidou para escrever o prefácio da biografi a do seu avô, ele ainda não a tinha escrito.
 Assim, pensei em aproveitar a oportunidade para fazer algo original, que seria escrever sobre um livro ainda não lido; já explico como.
@@ -28,9 +28,11 @@ Se depois a irmã deu com a bacia na cabeça dele, não ficou registrado na crô
 Mas o que realmente nos interessa no flagrante mencionado é o registro do humorista que o biografado também foi (dentre seus ídolos, estavam o Mazzaropi e a Dercy Gonçalves).
 Como no caso das fotos com as crianças, também há outras no livro, sobre o lado cômico do “seu” Antônio.
 
-Antônio Braighi em momento de descontração com o pai e outros familiares.
-(INSERIR FOTO)
-Fonte: Acervo de Márcio Braga
+<figure markdown>
+  <p class="p-center">Antônio Braighi em momento de descontração com o pai e outros familiares.</p>
+  ![Image title](https://dummyimage.com/600x400/eee/aaa){ align=center }
+  <figcaption>Fonte: Acervo de Márcio Braga</figcaption>
+</figure>
 
 Apesar de todas as tristezas que testemunhou e tentou amenizar, nem sempre com os resultados almejados, “seu” Antônio tinha, sim, um humor incomum.
 Ficava horas contando piadas, com direito a encenação e sem repetecos.
@@ -64,4 +66,4 @@ Os filhos desta miséria é que foram a grande preocupação do “seu” Antôn
 
 Portanto, convido o leitor a voltar ao século passado através deste livro sobre um homem marcante e de uma época que ficou na lembrança...
 
-Günter Kleemann
+<p class="p-right">Günter Kleemann</p>
