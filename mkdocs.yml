@@ -3,7 +3,7 @@ site_name: Meu Bom Amigo
 # Repository
 repo_name: gabrielbdornas/meu-bom-amigo
 repo_url: https://github.com/gabrielbdornas/meu-bom-amigo
-edit_uri: edit/main/docs/
+edit_uri: edit/portugues/docs/
 
 nav:
   - Home: index.md
@@ -33,6 +33,7 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
+    - content.action.edit
     # - toc.integrate
   palette:
     - scheme: default
@@ -53,6 +54,8 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+    edit: material/pencil
+    view: material/eye
 
 markdown_extensions:
   - abbr
